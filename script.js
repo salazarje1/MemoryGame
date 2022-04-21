@@ -12,7 +12,9 @@ const COLORS = [
   "blue",
   "green",
   "orange",
-  "purple"
+  "purple", 
+  "yellow",
+  "yellow"
 ];
 
 // here is a helper function to shuffle an array
